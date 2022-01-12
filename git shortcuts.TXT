@@ -1,0 +1,26 @@
+configure git :
+	git config --global user.name "your username"
+	git config --global user.email your gmail id
+	to show your added username --> git config user.name
+	to show your name and email---> git config --list
+create directory--> git init
+git add. -->add files to staging
+git commit -m "message"
+remote ma rakhne --> git remote add origin url of the remote
+git remote -v
+git push -u origin master
+git push 'remote_name' 'branch_name'
+
+
+
+-->git init : yelle git ko repo initialize garni
+-->git status : yelle kk file commit garna baki xa check garxa
+-->git add . : yelle tyo file haru add garxa
+-->git commit -m "message" : yelle commit garesi balla uta remote ma halna milxa
+-->git remote add origin timro repo link : yelle repo ma link garauxa
+
+-->git push -u origin master : yelle file haru tesma push garne kaam garauxa
+
+
+
+
